@@ -1,6 +1,6 @@
 # libsm64: Mario 64 movement as a library
 
-**Repository:** [libsm64/libsm64@fd11813](https://github.com/libsm64/libsm64/tree/fd11813208272b4271d92bd92feb8f3fdbe61be5) (default branch, 6 Oct 2026)  
+**Repository:** libsm64/libsm64@fd11813 (default branch, 6 Oct 2026). Not linked: it may contain the original game's code.  
 **Route:** embedded rebuilt mechanic (library)  
 **What we read:** README and related project docs. Nothing was run.
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 (2026-10-07)
+
+Five more projects are now named without a link because their repositories may contain the original game's code: mkdd, libsm64, ER Mario, DevilutionX and DevilutionX-D2-Movement.
+
+The OWCraft, ccboy and gang-beasts-rust case studies no longer make claims that their listed sources don't support.
+
 ## 0.2.1 (2026-10-07)
 
 The README now links the pull requests that carry these lessons into ai-game-modding-guides and universal-modder.

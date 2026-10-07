@@ -1,6 +1,6 @@
 # Diablo II Movement for DevilutionX
 
-**Repository:** [ITSTDMCC/DevilutionX-D2-Movement@c8a67ae](https://github.com/ITSTDMCC/DevilutionX-D2-Movement/tree/c8a67aead1abe43bd6dab241314d482c02b1a069) (default branch, 6 Oct 2026)  
+**Repository:** ITSTDMCC/DevilutionX-D2-Movement@c8a67ae (default branch, 6 Oct 2026). Not linked: it may contain the original game's code.  
 **Route:** mechanic transplant inside a rebuilt engine  
 **What we read:** source and harness docs. Nothing was run.  
 **AI credit (as the project states it):** commits co-authored by Claude models.

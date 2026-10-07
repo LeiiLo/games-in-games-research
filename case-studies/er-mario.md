@@ -1,6 +1,6 @@
 # ER Mario: Mario 64 movement inside Elden Ring
 
-**Repository:** [deltarooo/er-mario@83d1397](https://github.com/deltarooo/er-mario/tree/83d1397b5377c88a0fcdb00717e84ce068798ceb) (v0.3.8)  
+**Repository:** deltarooo/er-mario@83d1397 (v0.3.8). Not linked: it may contain the original game's code.  
 **Route:** embedded rebuilt mechanic (in-process)  
 **What we read:** source README, binary README and the collision test notes. Nothing was run.
 

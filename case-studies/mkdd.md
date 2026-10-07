@@ -1,6 +1,6 @@
 # Mario Kart: Double Dash matching decompilation
 
-**Repository:** [doldecomp/mkdd@1d2918c](https://github.com/doldecomp/mkdd/tree/1d2918ca577817ba431baddb78dda24831e0e0bb) (default branch, 6 Oct 2026)  
+**Repository:** doldecomp/mkdd@1d2918c (default branch, 6 Oct 2026). Not linked: it may contain the original game's code.  
 **Route:** matching decompilation  
 **What we read:** README. Nothing was run.
 

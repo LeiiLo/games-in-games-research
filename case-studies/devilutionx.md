@@ -1,6 +1,6 @@
 # DevilutionX: a rebuilt Diablo engine
 
-**Repository:** [diasurgical/DevilutionX@dac104b](https://github.com/diasurgical/DevilutionX/tree/dac104babfb6187415432f428ac2516747ffc154) (default branch, 6 Oct 2026)  
+**Repository:** diasurgical/DevilutionX@dac104b (default branch, 6 Oct 2026). Not linked: it may contain the original game's code.  
 **Route:** engine recreation (host for a mechanic mod)  
 **What we read:** the parts the movement mod touches. Nothing was run.  
 **AI credit (as the project states it):** recent commits co-authored by Claude models.
