@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.3 (2026-10-07)
+
+Reworded lessons in the Project Inception, Minebonk and Insaniquarium Deluxe Revibed case studies, and one title in the case-study index. The README's pull-request links now point to the two open pull requests.
+
 ## 0.2.2 (2026-10-07)
 
 Five more projects are now named without a link because their repositories may contain the original game's code: mkdd, libsm64, ER Mario, DevilutionX and DevilutionX-D2-Movement.

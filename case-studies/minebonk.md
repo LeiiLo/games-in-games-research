@@ -9,7 +9,7 @@ A BepInEx (IL2CPP) and Harmony mod that rebuilds Minecraft's player, hotbar, com
 
 **What we learned**
 
-- **One process still has costs.** The commits cut scene scans, cache collider lookups, give each mob one shadow caster, lower animation updates with distance and cull limbs. "No second game" doesn't mean no overhead, and the creator's claim of no extra cost isn't a measurement.
+- **One process still has overhead.** The commits cut scene scans, cache collider lookups, give each mob one shadow caster, lower animation updates with distance and cull limbs. The creator's claim of no extra cost isn't a measurement.
 - **Host events need adapting.** Mace landings need a check for the held weapon; explosion callbacks need a guess at the cause of a kill; pooled objects need resetting.
 - **The host may recreate the player.** Megabonk builds a new player on each stage, so inventory, enchantments, XP and food have to be handed over explicitly. That handover is in memory, not a save.
 - **Field of view affects imported viewmodels.** Changing the camera's field of view changed the first-person Minecraft hand, which needed a size and depth correction.

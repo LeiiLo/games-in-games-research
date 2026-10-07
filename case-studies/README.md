@@ -48,7 +48,7 @@ One page per project we learned from. Each page links the repository at the comm
 - [benilla: a recreated World of Warcraft 1.12.1 client](benilla.md)
 - [HL2-RS: Half-Life 2 rebuilt in Rust](hl2-rs.md)
 - [Halo / MW2 Director: three modes in one engine](halo-mw2-director.md)
-- [Insaniquarium Deluxe Revibed: a Rust rebuild with layers of evidence](insaniquarium-deluxe-revibed.md)
+- [Insaniquarium Deluxe Revibed: a Rust rebuild, and what its checks prove](insaniquarium-deluxe-revibed.md)
 - [gang-beasts-rust: a Rust rebuild that keeps game files out](gang-beasts-rust.md)
 
 ## Recompilation and decompilation

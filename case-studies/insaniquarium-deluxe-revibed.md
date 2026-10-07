@@ -9,10 +9,10 @@ A standalone Rust and Bevy port of Insaniquarium Deluxe that rebuilds the game's
 
 **What we learned**
 
-- **Scripted frames aren't play.** Fixed-step frame scripts, headless screenshots and a setup cheat let the agent test levels quickly. They show that a scripted route runs, not that every rule matches the original.
+- **A scripted test run isn't a playtest.** Scripts that feed the game inputs one fixed time step at a time, screenshots taken without a game window, and a setup cheat let the agent test levels quickly. They show that a scripted route runs, not that every rule matches the original.
 - **Separate the AI uses.** Optional Real-ESRGAN upscaled art is a different use of AI from writing the code, and nicer images say nothing about logic fidelity.
 - **Timing comes from the original.** One commit changes the logic clock from 10 ms to the original's 28 ms frame time.
-- **Writes into the owned game.** Saves and generated HD art go into the game's own folders, so the README suggests copying the folder first or turning saving off.
+- **It writes into the player's copy.** Saves and generated HD art go into the game's own folders, so the README suggests copying the folder first or turning saving off.
 - **Agents can build without launching.** One commit title says the agent builds the game but doesn't run it; someone still has to play it.
 - **Hardware figures are claims.** The memory and disk numbers are the creator's, not benchmarks.
 

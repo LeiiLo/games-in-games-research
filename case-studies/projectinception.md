@@ -12,7 +12,7 @@ A Fabric mod for Minecraft 1.16 that starts a second Minecraft and shows it insi
 - **The commit history shows the hard parts.** Titles from August and September 2020 move texture reads off the render thread, add cleanup for several instances and for stopped servers, unlock input, and then move the inner game into a separate process. Titles say what was attempted, not what worked.
 - **Shared memory has limits.** The README says the mod doesn't work from a network drive.
 - **Accounts limit nesting.** Multiplayer inside the inner game is disabled; the author's explanation is that one account can't be signed in to two servers at once.
-- **Crashes outside the game.** The README lists a kernel heap-corruption crash as believed fixed but not confirmed. A crash can come from below the game itself.
+- **Crashes can show up in the operating system's kernel.** The README lists a kernel heap-corruption crash as believed fixed but not confirmed.
 
 ---
 
