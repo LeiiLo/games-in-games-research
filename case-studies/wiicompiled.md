@@ -13,7 +13,7 @@ A .NET translator decodes PowerPC DOL and REL code into an intermediate form and
 - 120/144 Hz interpolation changes presentation, not the physics tick, and can add artefacts.
 - Ghost-input replay is a good parity test for the routes it covers; it doesn't prove "100% physics".
 - Translator tests default to synthetic inputs; asset and host-compiler tests are off by default. Manifests require exact binary hashes. Unsupported instructions fail unless you opt into traps.
-- The release history lists concrete fixes (memory corruption, underflow, black frames, resize, timers, input). The runtime assets README lists bundled emulator-derived DSP coefficients and network bootstrap material, an exception to broad "no Nintendo data" wording.
+- The release history lists concrete fixes (memory corruption, underflow, black frames, resize, timers, input). The runtime assets README lists bundled DSP coefficients and network bootstrap material, and the project's third-party notices say the DSP file is a free replacement ROM written by the Dolphin team, not Nintendo data.
 - The Mac renderer shares IOSurfaces through Dawn. Avoiding CPU copies still leaves GPU blit and scheduling cost, and a skipped test isn't a pass.
 
 ---

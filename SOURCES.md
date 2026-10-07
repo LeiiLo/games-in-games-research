@@ -4,14 +4,14 @@ Every project, tool and video this repository names as a source, pinned to what 
 
 ## Projects
 
-Projects marked "not linked" may contain the original game's code, decompiled or disassembled, so we name them without linking to them.
+Projects marked "not linked" may contain the original game's code (decompiled or disassembled), game files or other projects' files, may download unauthorized executable patches, or are trainers that may work in online play, so we name them without linking to them. Each case study says which.
 
 | Project | Pinned to | Case study | Why it can be named |
 |---|---|---|---|
 | 0xburn/halo-mw2-director | [48da3f656ed9](https://github.com/0xburn/halo-mw2-director/tree/48da3f656ed9f570e022a465254733c9d49e8fae) (default branch, 6 Oct 2026) | [halo-mw2-director](case-studies/halo-mw2-director.md) | licence: Apache-2.0 |
 | alskea/hytale2mc | [db8b44415245](https://github.com/alskea/hytale2mc/tree/db8b44415245244fedf97e2de044a2307d2522f1) (default branch, 6 Oct 2026) | [hytale2mc](case-studies/hytale2mc.md) | licence: GPL-3.0 |
 | amatheo/ccboy | [1e0fe92c174b](https://github.com/amatheo/ccboy/tree/1e0fe92c174b75acfd096298f87b37e4d3a8e660) (default branch, 6 Oct 2026) | [ccboy](case-studies/ccboy.md) | licence: AGPL-3.0 |
-| andrewnakas/reskate-trainer | [e749bd833bec](https://github.com/andrewnakas/reskate-trainer/tree/e749bd833becc2960d1088f66ca7d297fd14e329) (default branch, 6 Oct 2026) | [reskate-trainer](case-studies/reskate-trainer.md) | licence: GPL-3.0 |
+| andrewnakas/reskate-trainer | e749bd833bec (default branch, 6 Oct 2026), not linked | [reskate-trainer](case-studies/reskate-trainer.md) | licence: GPL-3.0 |
 | Arc-blroth/ProjectInception | [b782ef337282](https://github.com/Arc-blroth/ProjectInception/tree/b782ef337282f95b07af050a034c43a012488f26) (default branch, 6 Oct 2026) | [projectinception](case-studies/projectinception.md) | licence: MIT |
 | Atmerek/CrossplayProject | [1f843f0117f4](https://github.com/Atmerek/CrossplayProject/tree/1f843f0117f41934b6a54adae3264dd46e615e17) (default branch, 6 Oct 2026) | [crossplayproject](case-studies/crossplayproject.md) | licence: GPL-3.0 |
 | Banned445/AC1-Movement-Rewritten | [6544e0e81202](https://github.com/Banned445/AC1-Movement-Rewritten/tree/6544e0e812022a215a8ac1305ef527fdffba1f70) (default branch, 6 Oct 2026) | [ac1-movement-rewritten](case-studies/ac1-movement-rewritten.md) | the project credits AI |
@@ -26,7 +26,7 @@ Projects marked "not linked" may contain the original game's code, decompiled or
 | doldecomp/mkdd | 1d2918ca5778 (default branch, 6 Oct 2026), not linked | [mkdd](case-studies/mkdd.md) | licence: CC0-1.0 |
 | EdwardBelt/HyCraft | [358bb700f9e4](https://github.com/EdwardBelt/HyCraft/tree/358bb700f9e4b7b2b5690ba661444dae714fc13e) (default branch, 6 Oct 2026) | [hycraft](case-studies/hycraft.md) | licence: MIT |
 | Faiqie/BullySkate | [761c8def656b](https://github.com/Faiqie/BullySkate/tree/761c8def656b54481fa4bbbefba4156dd6300d34) (default branch, 6 Oct 2026) | [bullyskate](case-studies/bullyskate.md) | licence: MIT, scoped: covers the project's own additions |
-| FrosttysBots/CS-Craft | [9b0723a40067](https://github.com/FrosttysBots/CS-Craft/tree/9b0723a40067d946d4568284eaf7b959bc95a051) (default branch, 6 Oct 2026) | [cs-craft](case-studies/cs-craft.md) | the project credits AI |
+| FrosttysBots/CS-Craft | 9b0723a40067 (default branch, 6 Oct 2026), not linked | [cs-craft](case-studies/cs-craft.md) | the project credits AI |
 | FumperForrest/SubCraft | [26a936d73e72](https://github.com/FumperForrest/SubCraft/tree/26a936d73e723e2e611666ef80b2d9a980cb1292) (default branch, 6 Oct 2026) | [subcraft](case-studies/subcraft.md) | licence: MIT |
 | Giraffebutt/MKX-Character-Studio | [ec69899711d1](https://github.com/Giraffebutt/MKX-Character-Studio/tree/ec69899711d1f2c803434b7b3a51160c9223d8c6) (default branch, 6 Oct 2026) | [mkx-character-studio](case-studies/mkx-character-studio.md) | the project credits AI |
 | goonsn/Killcraft | [ce05bae49a32](https://github.com/goonsn/Killcraft/tree/ce05bae49a32a3a6c93b7f33acae73d2be05de15) (default branch, 6 Oct 2026) | [killcraft](case-studies/killcraft.md) | licence: MIT |
@@ -48,7 +48,7 @@ Projects marked "not linked" may contain the original game's code, decompiled or
 | samwhosung/benilla | [2e82d34c1b56](https://github.com/samwhosung/benilla/tree/2e82d34c1b561e3bb033f7cd910036ba63ce1760) (default branch, 6 Oct 2026) | [benilla](case-studies/benilla.md) | licence: Apache-2.0 |
 | SawyerTheNerd/Minecraft-X-HalfLife | [fecf40cfbbdc](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife/tree/fecf40cfbbdc22b30e7a4f31d8d221923d546532) (default branch, 6 Oct 2026) | [minecraft-x-halflife](case-studies/minecraft-x-halflife.md) | the project credits AI |
 | SK8-ENGINE/skate-3-rust-engine | [4488651c35c4](https://github.com/SK8-ENGINE/skate-3-rust-engine/tree/4488651c35c44365faa1ba38eed5758b6ebde714) (default branch, 6 Oct 2026) | [skate-3-rust-engine](case-studies/skate-3-rust-engine.md) | licence: GPL-3.0 |
-| Sm1jjj/PipeLinkLauncher | [e0f3014889ad](https://github.com/Sm1jjj/PipeLinkLauncher/tree/e0f3014889ad4acd7239e2d973dcab6da33c3fc1) (default branch, 6 Oct 2026) | [pipelinklauncher](case-studies/pipelinklauncher.md) | licence: MIT |
+| Sm1jjj/PipeLinkLauncher | e0f3014889ad (default branch, 6 Oct 2026), not linked | [pipelinklauncher](case-studies/pipelinklauncher.md) | licence: MIT |
 | smileybaal/gamedb | [7054201291d7](https://github.com/smileybaal/gamedb/tree/7054201291d704d64cdf37a9d3573c5d16a81fcf) (default branch, 6 Oct 2026) | [gamedb](case-studies/gamedb.md) | licence: MIT |
 | ssquadteam/DoomMaps | [2e782ad476d9](https://github.com/ssquadteam/DoomMaps/tree/2e782ad476d9c5b8698d81b2f09ababdd1adc37d) (default branch, 6 Oct 2026) | [doommaps](case-studies/doommaps.md) | licence: GPL-3.0 |
 | SuperTails/wasmcraft2 | [5431ca420e25](https://github.com/SuperTails/wasmcraft2/tree/5431ca420e25cc8ec0fe880da4825d083f6937b6) (default branch, 6 Oct 2026) | [wasmcraft2](case-studies/wasmcraft2.md) | licence: Apache-2.0 |
@@ -60,7 +60,7 @@ Projects marked "not linked" may contain the original game's code, decompiled or
 | TotSamiyMorzh/mewgenics-combat-roster | [4cf423376df5](https://github.com/TotSamiyMorzh/mewgenics-combat-roster/tree/4cf423376df555ebb0a1c556e8aa06d57fe3fe97) (default branch, 6 Oct 2026) | [mewgenics-combat-roster](case-studies/mewgenics-combat-roster.md) | licence: MIT |
 | vittorioromeo/th12_hfr | [895dbe9dd141](https://github.com/vittorioromeo/th12_hfr/tree/895dbe9dd1415ca1d81bc15efa831a16117901eb) (v0.11) | [th12-hfr](case-studies/th12-hfr.md) | the project credits AI |
 | vladtrc/iw4L | [d48a9f650235](https://github.com/vladtrc/iw4L/tree/d48a9f650235298399709020764e63f8141353b1) (v0.1.0-demo.2) | [iw4l](case-studies/iw4l.md) | licence: Apache-2.0 |
-| VortexisTV/wither-storm-gta5-passthrough | [24e54b6892cc](https://github.com/VortexisTV/wither-storm-gta5-passthrough/tree/24e54b6892ccb199f1b1912e74fdfbab86d87e37) (default branch, 6 Oct 2026) | [wither-storm-gta5-passthrough](case-studies/wither-storm-gta5-passthrough.md) | licence: MIT |
+| VortexisTV/wither-storm-gta5-passthrough | 24e54b6892cc (default branch, 6 Oct 2026), not linked | [wither-storm-gta5-passthrough](case-studies/wither-storm-gta5-passthrough.md) | licence: MIT |
 | Yaekai/OWCraft | [cd5f0613e1de](https://github.com/Yaekai/OWCraft/tree/cd5f0613e1de04c537e7db28a5813b0329cfbfa9) (default branch, 6 Oct 2026) | [owcraft](case-studies/owcraft.md) | licence: MIT |
 | zeyvu/FalloutCraft | [cbe85e89f781](https://github.com/zeyvu/FalloutCraft/tree/cbe85e89f781cfb1db819d13fe8af7656ec12204) (default branch, 6 Oct 2026) | [falloutcraft](case-studies/falloutcraft.md) | licence: MIT |
 

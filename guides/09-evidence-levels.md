@@ -17,7 +17,7 @@ Only the last row supports "working" for your own work, and only for the scenari
 
 ## Things that look like proof and aren't
 
-- **A design document.** [Garry's Redemption](../case-studies/garrys-redemption.md)'s first commit plans in-frame Vulkan/DX12 compositing. Its later release ships a separate overlay window and calls in-frame drawing unbuilt.
+- **A design document.** [Garry's Redemption](../case-studies/garrys-redemption.md)'s design document plans in-frame Vulkan/DX12 compositing, but v0.1.0-beta ships a separate overlay window, and its README calls in-frame drawing "not built".
 - **A test that checks little.** The GTA V example's `ws_test.cpp` passes if any received message contains the word `explosion`. It doesn't check camera accuracy, depth alignment or reconnecting. Elsewhere, a save-verification check once passed with no game data present at all.
 - **A synthetic peer.** [LibertyCraft](../case-studies/libertycraft.md) ships stand-ins for both ends of its bridge. Passing one still needs both real games.
 - **A percentage badge.** [AnyPS5](../case-studies/anyps5.md) reports progress against the system functions it knows about; the denominator grows as more are found. That isn't game compatibility. Decompilation directories list matching, linking and other percentages that mean different things.

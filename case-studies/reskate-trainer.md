@@ -1,6 +1,6 @@
 # ReSkate Trainer
 
-**Repository:** [andrewnakas/reskate-trainer@e749bd8](https://github.com/andrewnakas/reskate-trainer/tree/e749bd833becc2960d1088f66ca7d297fd14e329) (default branch, 6 Oct 2026)  
+**Repository:** andrewnakas/reskate-trainer@e749bd8 (default branch, 6 Oct 2026). Not linked: it's a trainer (changes a running game's values), and the game runtime it targets has online play, where the trainer may also work.  
 **Route:** trainer and installer for a game runtime (a fork of another project)  
 **What we read:** installer scripts and README. Nothing was run.  
 **AI credit (as the project states it):** commits co-authored by Claude.

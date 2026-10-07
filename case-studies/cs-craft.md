@@ -1,6 +1,6 @@
 # CS:Craft: Counter-Strike movement in a Minecraft survival mode
 
-**Repository:** [FrosttysBots/CS-Craft@9b0723a](https://github.com/FrosttysBots/CS-Craft/tree/9b0723a40067d946d4568284eaf7b959bc95a051) (default branch, 6 Oct 2026)  
+**Repository:** FrosttysBots/CS-Craft@9b0723a (default branch, 6 Oct 2026). Not linked: its release may contain Minecraft's game files.  
 **Route:** engine recreation plus an added game mode  
 **What we read:** docs and part of the captured commits. Nothing was run.  
 **AI credit (as the project states it):** the README says it was written by Claude.

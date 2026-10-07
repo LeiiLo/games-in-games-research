@@ -46,6 +46,6 @@ We say a project used AI only where the project itself says so: its README, cred
 
 ## Licence
 
-Code (there is very little) is under the MIT License. Text is under Creative Commons Attribution 4.0. See [LICENSE](LICENSE). Project names, trademarks and links to other projects belong to their owners.
+The template in guide 02 is under the MIT License. Everything else is under Creative Commons Attribution 4.0. See [LICENSE](LICENSE). Project names, trademarks and links to other projects belong to their owners.
 
 Maintained by LeiiLo. Version history: [CHANGELOG.md](CHANGELOG.md).

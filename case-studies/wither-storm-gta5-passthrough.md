@@ -1,6 +1,6 @@
 # Wither Storm × GTA V
 
-**Repository:** [VortexisTV/wither-storm-gta5-passthrough@24e54b6](https://github.com/VortexisTV/wither-storm-gta5-passthrough/tree/24e54b6892ccb199f1b1912e74fdfbab86d87e37) (default branch, 6 Oct 2026)  
+**Repository:** VortexisTV/wither-storm-gta5-passthrough@24e54b6 (default branch, 6 Oct 2026). Not linked: its release may contain other projects' files.  
 **Route:** frame compositing plus state (a modified build of the Universal Modder example)  
 **What we read:** README. Nothing was run.  
 **AI credit (as the project states it):** README credits Claude Code.

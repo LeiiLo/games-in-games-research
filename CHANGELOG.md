@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.4 (2026-10-07)
+
+CS:Craft, PipeLink, Wither Storm × GTA V and ReSkate Trainer are now named without a link. CS:Craft's and Wither Storm's releases may contain game files or other projects' files, PipeLink's launcher may download unauthorized executable patches, and ReSkate Trainer is a trainer that may work in online play. SOURCES now lists these reasons for leaving a project unlinked. The README's licence section now says the template in guide 02 is the only part under the MIT License.
+
+Guide 09 no longer says Garry's Redemption's overlay window came in a later release than its design document. The WiiCompiled case study now says its bundled DSP file is a free replacement written by the Dolphin team, not Nintendo data.
+
 ## 0.2.3 (2026-10-07)
 
 Reworded lessons in the Project Inception, Minebonk and Insaniquarium Deluxe Revibed case studies, and one title in the case-study index. The README's pull-request links now point to the two open pull requests.

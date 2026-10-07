@@ -1,6 +1,6 @@
 # PipeLink: installer and converters around GTA San Andreas, Skate and MW2
 
-**Repository:** [Sm1jjj/PipeLinkLauncher@e0f3014](https://github.com/Sm1jjj/PipeLinkLauncher/tree/e0f3014889ad4acd7239e2d973dcab6da33c3fc1) (default branch, 6 Oct 2026)  
+**Repository:** Sm1jjj/PipeLinkLauncher@e0f3014 (default branch, 6 Oct 2026). Not linked: we couldn't see what its launcher downloads, which may include unauthorized executable patches (needs checking).  
 **Route:** installer plus asset converters  
 **What we read:** captured initial commit. Nothing was run.  
 **AI credit (as the project states it):** commits co-authored by Claude.
