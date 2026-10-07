@@ -6,7 +6,7 @@
 
 A Rust and Bevy rebuild of Gang Beasts, with Python scripts that extract the game's data.
 
-**What we learned:** Its ignore file lists what may be committed rather than what may not, so extracted game files stay out of the repository by default. We don't know how far the rebuild gets.
+**What we learned:** The guide describes its ignore file as a list of what may be committed rather than what may not, which keeps extracted game files out of the repository by default. We don't know how far the rebuild gets.
 
 ---
 

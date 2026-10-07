@@ -10,8 +10,6 @@ A Python server runs the PyBoy emulator headless, reduces each frame to Computer
 
 - **Simulation rate and display rate differ.** The defaults emulate at 60 Hz and update the screen at 15 Hz, so the game runs at full speed but doesn't show 60 frames a second. Say which rate a claim means.
 - **The host's scripting mod is the transport.** ComputerCraft's HTTP and WebSocket support carries frames in and buttons out; nothing else in Minecraft changes.
-- **Check toggles against the code.** A compression setting exists, but the current build always compresses.
-- **Setup docs can drift.** The Docker setup refers to a requirements file that isn't in the repository.
 - **No audio.** The project doesn't claim sound.
 
 ---
