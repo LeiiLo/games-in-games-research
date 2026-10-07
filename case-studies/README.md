@@ -16,10 +16,15 @@ One page per project we learned from. Each page links the repository at the comm
 - [Minecraft × Half-Life (GoldSrc)](minecraft-x-halflife.md)
 - [GalaxyCraft: Minecraft inside Super Mario Galaxy 2 (Dolphin)](galaxycraft.md)
 - [Garry's Redemption: Garry's Mod beside Red Dead Redemption 2](garrys-redemption.md)
+- [OWCraft: Minecraft inside Outer Wilds](owcraft.md)
+- [SubCraft: Minecraft inside Subnautica](subcraft.md)
+- [CrossplayProject: Minecraft and Roblox linked](crossplayproject.md)
+- [Project Inception: Minecraft inside Minecraft](projectinception.md)
 
 ## Shared simulation
 
 - [Signet: a shared match instead of a bridge](signetprotocol.md)
+- [hytale2mc: one minigame framework for Minecraft and Hytale](hytale2mc.md)
 
 ## Rebuilt engines and mechanics inside a host
 
@@ -32,6 +37,7 @@ One page per project we learned from. Each page links the repository at the comm
 - [AC1 Movement Rewritten](ac1-movement-rewritten.md)
 - [Diablo II Movement for DevilutionX](devilutionx-d2-movement.md)
 - [DevilutionX: a rebuilt Diablo engine](devilutionx.md)
+- [Minebonk: Minecraft mechanics rebuilt inside Megabonk](minebonk.md)
 
 ## Engine recreations
 
@@ -42,6 +48,8 @@ One page per project we learned from. Each page links the repository at the comm
 - [benilla: a recreated World of Warcraft 1.12.1 client](benilla.md)
 - [HL2-RS: Half-Life 2 rebuilt in Rust](hl2-rs.md)
 - [Halo / MW2 Director: three modes in one engine](halo-mw2-director.md)
+- [Insaniquarium Deluxe Revibed: a Rust rebuild with layers of evidence](insaniquarium-deluxe-revibed.md)
+- [gang-beasts-rust: a Rust rebuild that keeps game files out](gang-beasts-rust.md)
 
 ## Recompilation and decompilation
 
@@ -64,6 +72,9 @@ One page per project we learned from. Each page links the repository at the comm
 - [chasm: AI-driven NPCs with a Fallout: New Vegas bridge](chasm.md)
 - [HyCraft: Minecraft clients on a Hytale server](hycraft.md)
 - [wasmcraft2: programs compiled into Minecraft commands](wasmcraft2.md)
+- [DoomMaps: Doom on Hytale's world map](doommaps.md)
+- [ccboy: a Game Boy on ComputerCraft monitors](ccboy.md)
+- [MKX Character Studio: conversion that the game still rejects](mkx-character-studio.md)
 
 ## Lessons without a named source
 

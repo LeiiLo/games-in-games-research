@@ -15,7 +15,7 @@
 | **Asset or map conversion** | the host only | files converted offline | the host, and their own copy of the source game | [PipeLink](../case-studies/pipelinklauncher.md) converters, the map import in [Halo / MW2 Director](../case-studies/halo-mw2-director.md) |
 | **Host-API recreation** | the host only | nothing; the guest's look or rules are rebuilt with the host's own modding API | the host | [Universal Modder's cases](../case-studies/universal-modder.md) (Borderlands 3 guns in Borderlands 2, Counter-Strike movement in Elden Ring) |
 
-Also called mashups, and out of scope here: cross-game progression links such as multiworld randomisers, protocol translators ([HyCraft](../case-studies/hycraft.md) lets Minecraft clients join a Hytale server), programs compiled into Minecraft commands ([wasmcraft2](../case-studies/wasmcraft2.md)), games drawn onto another game's map screen ([DoomMaps](https://github.com/ssquadteam/DoomMaps/tree/2e782ad476d9c5b8698d81b2f09ababdd1adc37d) renders Doom on Hytale's world map), and emulators running inside games.
+Also called mashups, and out of scope here: cross-game progression links such as multiworld randomisers, protocol translators ([HyCraft](../case-studies/hycraft.md) lets Minecraft clients join a Hytale server), programs compiled into Minecraft commands ([wasmcraft2](../case-studies/wasmcraft2.md)), games drawn onto another game's map screen ([DoomMaps](../case-studies/doommaps.md) renders Doom on Hytale's world map), and emulators running inside games.
 
 Most shipped projects mix routes. The common pairing is frame compositing for the picture plus a state bridge for collision and combat.
 

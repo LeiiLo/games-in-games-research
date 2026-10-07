@@ -23,6 +23,15 @@ New here? Read [START-HERE.md](START-HERE.md). Agents and expert readers: [FOR-A
 3. Before writing bridge code, fill in a contract using [bridge contracts](guides/02-bridge-contracts.md).
 4. When you report progress, label each claim with the levels in [evidence levels](guides/09-evidence-levels.md).
 
+## The same lessons in other projects
+
+We've offered these lessons as pull requests to two projects that people already use, rewritten in each project's own format:
+
+1. **[ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides)** ([pull request](PR-LINK-GUIDES)). Its pull request adds a guide on choosing a route, a case-study guide, a table of ownership, sync and rendering symptoms, and templates for a bridge contract, a playtest report and attribution.
+2. **[universal-modder](https://github.com/rehan-remade/universal-modder)** ([pull request](PR-LINK-UM)). Its pull request adds nine technique notes for its knowledge base (choosing a route, bridge contracts, frame compositing, geometry transfer, collision and combat, a rebuilt engine inside a host, engine recreation, installers and load order, and evidence levels), a table of mashup projects, and a checklist its mashup skill runs before picking a pattern.
+
+Each pull request stands on its own. This repository keeps the fuller version, with a page for every case study.
+
 ## What this is not
 
 - **Not a test report.** We read source, docs, commit pages and release notes. We didn't run the games, mods, installers or tests for this edition. A sentence like "the code does X" means someone read the code.
