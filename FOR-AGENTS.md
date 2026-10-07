@@ -1,4 +1,4 @@
-# For coding agents and expert readers
+# For coding agents and experts
 
 A compact map of the repository. Everything here is plain Markdown; there is no code to run.
 
